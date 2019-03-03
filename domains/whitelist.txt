@@ -217,3 +217,4 @@ feeds.feedburner.com
 res.cloudinary.com
 static.tp-link.com
 petri.com
+sony.co.uk
